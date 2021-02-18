@@ -1,0 +1,10 @@
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\obj\Debug\GriSHIN RSA.csprojAssemblyReference.cache
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.Properties.Resources.resources
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\obj\Debug\GriSHIN RSA.csproj.GenerateResource.cache
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\obj\Debug\GriSHIN RSA.csproj.CoreCompileInputs.cache
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.exe
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\obj\Debug\SafonovRSA.pdb
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\obj\Debug\GriSHIN.Form1.resources
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.exe.config
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.exe
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Задание RSA\SafonovRSA\SafonovRSA\bin\Debug\SafonovRSA.pdb
