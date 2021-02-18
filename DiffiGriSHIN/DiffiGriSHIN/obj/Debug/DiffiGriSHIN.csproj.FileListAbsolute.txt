@@ -1,0 +1,10 @@
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\bin\Debug\SafonovDiffi.exe.config
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\bin\Debug\SafonovDiffi.exe
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\bin\Debug\SafonovDiffi.pdb
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\obj\Debug\DiffiGriSHIN.csprojAssemblyReference.cache
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\obj\Debug\DiffiGriSHIN.Form1.resources
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.Properties.Resources.resources
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\obj\Debug\DiffiGriSHIN.csproj.GenerateResource.cache
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\obj\Debug\DiffiGriSHIN.csproj.CoreCompileInputs.cache
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.exe
+C:\Users\egorg\Downloads\SafonovPR-main\SafonovPR-main\Диффи-Хелман\SafonovDiffi\SafonovDiffi\obj\Debug\SafonovDiffi.pdb
